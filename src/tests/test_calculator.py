@@ -34,7 +34,7 @@ def test_division_by_0():
     assert c.division(9, 0) == "Erreur : division par zéro"
 
 # Test qui échoue
-def test_echec_addition():
-    c = Calculator()
-    assert c.addition(2, 2) == 5
+#def test_echec_addition():
+#    c = Calculator()
+#    assert c.addition(2, 2) == 5
 
